@@ -67,3 +67,7 @@
 #footer h2{
 	font-size: 30px;
 }
+
+#projects p, #projects li{
+	text-align: left;
+}
